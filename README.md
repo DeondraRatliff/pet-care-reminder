@@ -3,3 +3,4 @@ Our project is a Pet Care Reminder application. It will help pet owners manage r
 Team Members:
 - Deondra Ratliff
 - Mi Meh
+- Maximillian Smith
