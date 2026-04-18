@@ -4,3 +4,11 @@ Team Members:
 - Deondra Ratliff
 - Mi Meh
 - Maximillian Smith
+
+## Class Distribution
+User Class – Deondra Ratliff
+Pet Class – Mi Meh
+Reminder Class – Maximillian Smith
+
+Description:
+The User class manages user information. The Pet class stores pet details. The Reminder class handles scheduled pet care tasks such as feeding and medication.
